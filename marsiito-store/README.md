@@ -1,1 +1,1 @@
-This folder contains the ALX Webstack Specialization Backend created for E-Commerce App. It contains different API end-points and database configuration for building E-Commerce.
+This folder contains the ALX Webstack Specialization Backend created for E-Commerce App. It contains different API end-points and database configuration for building E-Commerce app.
