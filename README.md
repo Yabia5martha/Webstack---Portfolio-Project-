@@ -1,10 +1,7 @@
 # ALX Webstack-Portfolio-Project
 
 ## E-Commerce Store
-[Slate-Store](https://slate-ecom-app.netlify.app/) - An e-commerce store for selling Natural Products
-
-<!-- https://user-images.githubusercontent.com/77036784/173244452-f585322e-8486-497a-91df-7fcf2078422e.mp4 -->
-
+An e-commerce store for selling Natural Products
 
 ## Features
 
@@ -27,5 +24,4 @@
 - React Router v6
 - React Context API and useReducer
 - MockBee
-- [Slate UI](https://slateui.netlify.app/) - CSS Component Library
 - React Hot Toast 
